@@ -1,0 +1,28 @@
+# Sanctuary: dark green and turquoise
+# Core UI
+accent = "#2dd4bf"
+cursor = "#5eead4"
+foreground = "#cfe8e3"
+background = "#0a1a17"
+selection_foreground = "#0a1a17"
+selection_background = "#2dd4bf"
+
+# ANSI normal
+color0 = "#10261f"
+color1 = "#d9777a"
+color2 = "#3fb68b"
+color3 = "#d6c27a"
+color4 = "#3a9bb5"
+color5 = "#9a8fc4"
+color6 = "#2dd4bf"
+color7 = "#b7d3cd"
+
+# ANSI bright
+color8 = "#2a4a41"
+color9 = "#ee9a9c"
+color10 = "#5fd3a6"
+color11 = "#e8d89a"
+color12 = "#5cc0da"
+color13 = "#b8aedb"
+color14 = "#7ff0df"
+color15 = "#e6f5f1"
