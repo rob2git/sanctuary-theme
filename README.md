@@ -6,7 +6,7 @@ Dark green and turquoise, with traditional Catholic churches as wallpapers.
 
 To install this theme, simply use the omarchy-theme-install command:
 
-omarchy-theme-install https://github.com/rob2git/sanctuary-theme
+    omarchy-theme-install https://github.com/rob2git/sanctuary-theme
 
 Or
 
