@@ -21,20 +21,6 @@ Dark green and turquoise, with traditional Catholic churches as wallpapers.
 
 All six are graded to a dark-green to turquoise two-tone look at 2560x1440.
 
-## Regrading or swapping photos
-
-```
-tools/grade-wallpapers.sh ~/Pictures/churches
-MODE=tint tools/grade-wallpapers.sh ~/Pictures/churches
-```
-
-The default `duotone` mode gives the full dark-green to turquoise look.
-`tint` keeps more of each photo's own colors, shifted toward green and teal.
-Results are written to `backgrounds/`. Delete the files you don't want there
-first, since the script only adds or overwrites. Needs ImageMagick.
-
-Check the license of each source photo before sharing the theme publicly.
-
 ## Palette
 
 | Role | Color |
