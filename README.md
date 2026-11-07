@@ -18,12 +18,12 @@ Or
 
 | # | Subject | Type |
 |---|---------|------|
-| 1 | Stained-glass window with light rays | Interior |
+| 1 | St. Peter's Basilica, from Via della Conciliazione | Exterior |
 | 2 | Notre-Dame de Paris, portal sculpture | Exterior |
 | 3 | Santa Maria della Salute, Venice | Exterior |
 | 4 | Siena Cathedral | Exterior |
 | 5 | St. Peter's Basilica, dome and baldachin | Interior |
-| 6 | St. Peter's Basilica, from Via della Conciliazione | Exterior |
+| 6 | Stained-glass window with light rays | Interior |
 
 All six are graded to a dark-green to turquoise two-tone look at 2560x1440.
 
